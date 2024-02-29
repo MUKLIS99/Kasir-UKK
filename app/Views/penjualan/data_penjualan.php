@@ -17,7 +17,7 @@
                 </h3>
             </div>
             <div class="col-md-5">
-                <Span>tanggal</Span>
+                <Span></Span>
             </div>
         </div>
     </div>
